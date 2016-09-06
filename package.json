@@ -7,9 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wictor Wilén, wictor@wictorwilen.se",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "webpack",
     "requirejs"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/wictorwilen/preserve-requirejs-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/wictorwilen/preserve-requirejs-webpack-plugin♦",
+  "maintainers": [
+    {
+      "name": "wictor",
+      "email": "wictor@wictorwilen.se"
+    }
+  ],
+
 }

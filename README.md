@@ -2,7 +2,7 @@
 
 This plugin to Webpack preserves `requirejs.config()` in Webpack output
 
-![https://www.npmjs.com/package/preserve-requirejs-webpack-plugin](https://nodei.co/npm/preserve-requirejs-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)
+![npmjs](https://nodei.co/npm/preserve-requirejs-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)(https://www.npmjs.com/package/preserve-requirejs-webpack-plugin)
 
 ## Install
 
